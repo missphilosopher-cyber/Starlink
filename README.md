@@ -7,3 +7,6 @@ Develop a reproducible supervised machine-learning system that classifies labell
   <img src="./mermaid-diagram.png"
        width="50%" />
 </p>
+
+# RESOURCES
+https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html
